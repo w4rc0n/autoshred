@@ -8,6 +8,7 @@ You may need to adjust the pci bus listed in `for d in $(ls /dev/disk/by-path/pc
 
 ### to do
 add smarctl checks
+
 drive bay led control based on results
 
 # WARNING
